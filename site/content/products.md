@@ -29,13 +29,13 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
+  description: >-
     1of23 is the ultimate spot for wildcraft lovers who want to learn about their
     java’s origin and support the makers that grew it. re glad to pass that
     knowledge to anyone.
 main:
   heading: Wildcraft with no compromises
-  description: >
+  description: >-
     We .
   image1:
     alt: A close-up of a paper filter filled with ground coffee

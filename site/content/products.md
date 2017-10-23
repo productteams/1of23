@@ -38,8 +38,7 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
+    1of23 is the ultimate spot for people who want to learn about wildcrafting and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 main:
@@ -59,20 +58,20 @@ main:
     alt: Coffee beans
     image: /img/products/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Elisabeth Miyaki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      The first time I saw 1of23's products I was astounded by the creativity of their makers, I couldn’t even believe that was
+      I could actually know the forest owner of the floor I installed in my home, and could visit the lush forest that nourished my floor for years.
+  - author: Philip Tromler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      1of23 is the place to go if you want the best quality wildcrafted artifact. I love their
+      stance on empowering farmers, foresters and origin transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
+    We make it easy to make great products a part of your life. Choose one of our
+    monthly subscription plans to receive great items at your doorstep each
     month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.

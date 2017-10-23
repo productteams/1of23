@@ -18,10 +18,17 @@ intro:
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of ---
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great cup of coffee,---
+        Love a great cup of coffee, but never knew how to make one? Bought a
+        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our baristas
+        to learn anything you want to know about coffee roasting and brewing.
+        Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
         We believe that good coffee has the power to bring people together.
@@ -31,13 +38,14 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    1of23 is the ultimate spot for wildcraft lovers who want to learn about their
-    java’s origin and support the makers that grew it. re glad to pass that
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 main:
-  heading: Wildcraft with no compromises
+  heading: Great coffee with no compromises
   description: >
-    We hold our products to the highest standards from the shrub to the cup.
+    We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.

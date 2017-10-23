@@ -59,8 +59,8 @@ main:
 testimonials:
   - author: Elisabeth Miyaki
     quote: >-
-      The first time I saw 1of23's products I was astounded by the creativity of their makers, I couldn’t even believe that was
-      I could actually know the forest owner of the floor I installed in my home, and could visit the lush forest that nourished my floor for years.
+      The first time I saw 1of23's products I was astounded by the creativity of their makers, I couldn’t even believe that 
+      I could actually know the forest owner of the floor I installed in my home, and visit the exact location of the lush forest that nourished my floor for years. I love the transparency and I know that my new floors were indeed harvested sustainably
   - author: Philip Tromler
     quote: >-
       1of23 is the place to go if you want the best quality wildcrafted artifact. I love their

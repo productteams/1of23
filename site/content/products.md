@@ -5,8 +5,7 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
- 1of23 is the ultimate spot for Wildcraft.  Buyers who want to learn about their
-  java’s origin and support the farmers that grew it. 
+ 1of23 is the ultimate spot for Wildcraft.  It is for Buyers who want to learn about how makers turn foraged items into beautiful artifacts and support those makers by buying their one-of-a-kind products. 
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -31,10 +30,10 @@ intro:
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
+        We believe that wildcrafted artifacts have the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
@@ -70,7 +69,7 @@ full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great products a part of your life. Choose one of our
+    We make it easy to make great wildcrafted products a part of your life. Choose one of our
     monthly subscription plans to receive great items at your doorstep each
     month. Contact us about more details and payment info.
   plans:

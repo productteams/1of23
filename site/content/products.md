@@ -5,27 +5,28 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
- 1of23 is limited edition wildcraft. 
+ 1of23 is the ultimate spot for Wildcraft.  Buyers who want to learn about their
+  java’s origin and support the farmers that grew it. 
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We sell wildcrafted products that are sourced directly from
-        independent makers and maker cooperatives. We’re proud to offer a
-        variety of products with great care for the environment and
+        We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of wildcraft tools---
+        We offer a small, but carefully curated selection of ---
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great olive branch,---
+        Love a great cup of coffee,---
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good art has the power to bring people together.
+        We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow wildcrafters and learn about
+        space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
@@ -36,7 +37,10 @@ intro:
 main:
   heading: Wildcraft with no compromises
   description: >
-    We .
+    We hold our products to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -48,17 +52,20 @@ main:
     image: /img/products/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-1 of 23 coffee pots, I couldn’t even believe that was
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
-      1 of 23 is the place to go if you want the best quality coffee. I love their
+      Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-     Contact us about more details and payment info.
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:

@@ -48,8 +48,7 @@ main:
     image: /img/products/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-    1 of 23 coffee pots, I couldn’t even believe that was
+    quote: >-1 of 23 coffee pots, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-

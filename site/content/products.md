@@ -11,10 +11,6 @@ intro:
     - image: /img/illustrations/coffee.svg
       text: > 
          We sell<p> kkk</p).
-  blurbs:
-    - image: /img/illustrations/coffee.svg
-      text: > 
-         We sell<p> kkk</p).
 
 
   heading: What we offer

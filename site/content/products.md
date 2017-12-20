@@ -20,8 +20,6 @@ intro:
     - image: /img/illustrations/coffee.svg
       text: > 
          We sell.
-    - image: /img/illustrations/coffee.svg
-      text: > 
 
   heading: What we offer
   description: >

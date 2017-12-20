@@ -10,7 +10,7 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: > 
-      -test
+         We sell.
     - image: /img/illustrations/coffee.svg
       text: > 
 

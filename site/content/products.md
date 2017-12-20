@@ -10,7 +10,7 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        1-Truckee,CA
+        1- Truckee, CA<br>
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
@@ -18,7 +18,7 @@ intro:
         availability.
     - image: /img/illustrations/coffee.svg
       text: >
-        2-San Luis Obispo, CA
+        2- San Luis Obispo, CA <br>
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
@@ -26,14 +26,14 @@ intro:
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        3-Santa Cruz,CA USA
+        3- Santa Cruz, CA USA<br>
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
-        4-Cagliari,Sardinia, Italy
+        4- Cagliari, Sardinia, Italy<br>
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas

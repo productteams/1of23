@@ -10,21 +10,21 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        1-Truckee,CA We sell green and roasted coffee beans that are sourced directly from
+        1- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
      - image: /img/illustrations/coffee.svg
       text: >
-        2-Truckee,CA We sell green and roasted coffee beans that are sourced directly from
+        2- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations/coffee.svg
       text: >
-        3-Truckee,CA We sell green and roasted coffee beans that are sourced directly from
+        3- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
@@ -32,10 +32,14 @@ intro:
     - image: /img/illustrations/coffee.svg
       text: >
 <<<<<<< HEAD
+<<<<<<< HEAD
         2-San Luis Obispo, CAWe sell green and roasted coffee beans that are sourced directly from
 =======
         2-We sell green and roasted coffee beans that are sourced directly from
 >>>>>>> parent of 69cfe0c... push 4 more
+=======
+        2- San Luis Obispo, CA <br>We sell green and roasted coffee beans that are sourced directly from
+>>>>>>> parent of f9e3984... push
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
@@ -43,10 +47,14 @@ intro:
     - image: /img/illustrations/coffee-gear.svg
       text: >
 <<<<<<< HEAD
+<<<<<<< HEAD
         3-Santa Barbara, CAWe offer a small, but carefully curated selection of brewing gear and
 =======
         3-We offer a small, but carefully curated selection of brewing gear and
 >>>>>>> parent of 69cfe0c... push 4 more
+=======
+        3- Santa Barbara, CA <br>We offer a small, but carefully curated selection of brewing gear and
+>>>>>>> parent of f9e3984... push
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.

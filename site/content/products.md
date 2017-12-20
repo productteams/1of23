@@ -1,11 +1,11 @@
 ---
-title: Our Wildcraft
+title: Discover Unique Wildcrafts
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
- 1of23 is the ultimate spot for Wildcraft.  It is for Buyers who want to learn about how makers turn foraged items into beautiful artifacts and support those makers by buying their one-of-a-kind products. 
+ This is a collection of 529 products for sale - 23 items made by 23 different foragers/makers/farmers.  It is for Buyers who want to support local makers by purchasing their unique beautiful artifacts and one-of-a-kind products. 
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg

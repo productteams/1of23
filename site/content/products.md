@@ -10,7 +10,12 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
+<<<<<<< Updated upstream
         1- Truckee,CA We sell green and roasted coffee beans that are sourced directly from
+=======
+<<<<<<< HEAD
+        1- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
+>>>>>>> Stashed changes
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
@@ -24,19 +29,82 @@ intro:
         availability.
     - image: /img/illustrations/coffee.svg
       text: >
+<<<<<<< Updated upstream
         5- Truckee,CA We sell green and roasted coffee beans that are sourced directly from
+=======
+        3- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
+=======
+        1- Truckee, CA<br>
+        We sell green and roasted coffee beans that are sourced directly from
+>>>>>>> parent of c635283... Revert "push 0614 1220 changes to products page"
+>>>>>>> Stashed changes
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations/coffee.svg
       text: >
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        2-San Luis Obispo, CAWe sell green and roasted coffee beans that are sourced directly from
+=======
+        2-We sell green and roasted coffee beans that are sourced directly from
+>>>>>>> parent of 69cfe0c... push 4 more
+=======
+=======
+        4- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/illustrations/coffee.svg
+      text: >
+        5- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/illustrations/coffee.svg
+      text: >
+>>>>>>> parent of 47c712f... push
+        2- San Luis Obispo, CA <br>We sell green and roasted coffee beans that are sourced directly from
+>>>>>>> parent of f9e3984... push
+=======
+        2- San Luis Obispo, CA <br>
+        We sell green and roasted coffee beans that are sourced directly from
+>>>>>>> parent of c635283... Revert "push 0614 1220 changes to products page"
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/illustrations/coffee-gear.svg
+      text: >
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        3-Santa Barbara, CAWe offer a small, but carefully curated selection of brewing gear and
+=======
+        3-We offer a small, but carefully curated selection of brewing gear and
+>>>>>>> parent of 69cfe0c... push 4 more
+=======
+        3- Santa Barbara, CA <br>We offer a small, but carefully curated selection of brewing gear and
+>>>>>>> parent of f9e3984... push
+=======
+        3- Santa Cruz, CA USA<br>
+        We offer a small, but carefully curated selection of brewing gear and
+>>>>>>> parent of c635283... Revert "push 0614 1220 changes to products page"
+>>>>>>> Stashed changes
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
-        4-Love a great cup of coffee, but never knew how to make one? Bought a
+        4- Cagliari, Sardinia, Italy<br>
+        Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
@@ -44,6 +112,97 @@ intro:
     - image: /img/illustrations/meeting-space.svg
       text: >
         5-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+     - image: /img/illustrations/meeting-space.svg
+      text: >
+        6-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+     - image: /img/illustrations/meeting-space.svg
+      text: >
+        7-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+     - image: /img/illustrations/meeting-space.svg
+      text: >
+        8-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+      - image: /img/illustrations/meeting-space.svg
+      text: >
+        9-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+      - image: /img/illustrations/meeting-space.svg
+      text: >
+        10-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+      - image: /img/illustrations/meeting-space.svg
+      text: >
+        11-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+      - image: /img/illustrations/meeting-space.svg
+      text: >
+        12-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+      - image: /img/illustrations/meeting-space.svg
+      text: >
+        13-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+       - image: /img/illustrations/meeting-space.svg
+      text: >
+        14-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+       - image: /img/illustrations/meeting-space.svg
+      text: >
+        15-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+      - image: /img/illustrations/meeting-space.svg
+      text: >
+        16-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+      - image: /img/illustrations/meeting-space.svg
+      text: >
+        17-We believe that wildcrafted artifacts have the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow foragers/makers/artisans and learn about
+        maker techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+      - image: /img/illustrations/meeting-space.svg
+      text: >
+        18-We believe that wildcrafted artifacts have the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow foragers/makers/artisans and learn about
         maker techniques. All of the artwork on display there is for

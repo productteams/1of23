@@ -109,7 +109,7 @@ pricing:
       price: '50'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
-        - 6 lbs of Porcini Mushroooms per month
+        - 6 lbs of Porcini(Bolete) Mushroooms per month
         - Green or roasted beans
         - Up to 4 different varieties of mushrooms available
       plan: Big

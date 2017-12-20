@@ -9,9 +9,9 @@ description: >-
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
-      text: >
+      text: > 123
     - image: /img/illustrations/coffee.svg
-      text: >
+      text: > 123
 
 
   heading: What we offer

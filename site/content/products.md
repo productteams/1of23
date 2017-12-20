@@ -10,6 +10,10 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: > 
+          - image: /img/illustrations/coffee.svg
+      text: >
+          - image: /img/illustrations/coffee.svg
+      text: >
          We sell<p> kkk</p).
 
 

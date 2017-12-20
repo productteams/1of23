@@ -10,10 +10,10 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: > 
-      "123"
+    '123'
     - image: /img/illustrations/coffee.svg
       text: > 
-      "123"
+      '123'
 
 
   heading: What we offer

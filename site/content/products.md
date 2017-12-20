@@ -33,11 +33,28 @@ intro:
       text: >
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         2-San Luis Obispo, CAWe sell green and roasted coffee beans that are sourced directly from
 =======
         2-We sell green and roasted coffee beans that are sourced directly from
 >>>>>>> parent of 69cfe0c... push 4 more
 =======
+=======
+        4- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/illustrations/coffee.svg
+      text: >
+        5- Truckee,CA <br> We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/illustrations/coffee.svg
+      text: >
+>>>>>>> parent of 47c712f... push
         2- San Luis Obispo, CA <br>We sell green and roasted coffee beans that are sourced directly from
 >>>>>>> parent of f9e3984... push
         independent farmers and farm cooperatives. We’re proud to offer a

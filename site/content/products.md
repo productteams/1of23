@@ -1,5 +1,5 @@
 ---
-title: Discover Unique Wildcrafts
+title: Wildcrafts for Your Home
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
